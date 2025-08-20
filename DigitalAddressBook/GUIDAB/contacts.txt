@@ -1,0 +1,3 @@
+Kok Wen Kai,0123456789,wenkai@gmail.com,33 Desa Petaling 57100 Selangor
+Kok Wen Kai2,0156589966,wen123@gmail.com,33Bukit Bintang 57150 Selangor
+Kok Wen Kai3,0198563332,kai789@gmail.com,68 Taman Damansara 45600 Selangor

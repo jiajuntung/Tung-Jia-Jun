@@ -1,0 +1,18 @@
+Name: Kok Wen Kai
+Phone Number: 012-319-7994
+Email Address: kok8kai@gmail.com
+Home Address: Desa Petaling
+Pinned: false
+
+Name: Kok Wen Kai3
+Phone Number: 012-319-7996
+Email Address: kok10kai@gmail.com
+Home Address: Desa Petaling3
+Pinned: true
+
+Name: Kok Wen Kai2
+Phone Number: 012-319-7878
+Email Address: kok9kai@gmail.com
+Home Address: Desa Petaling2
+Pinned: false
+
